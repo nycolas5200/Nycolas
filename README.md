@@ -1,25 +1,33 @@
-## Opa!! Meu nome é Nycolas, sou estudante de ADS, metido a economista e nas horas vagas tento ser White Hat
+# Nycolas Borges — Cybersecurity Portfolio
 
-Profissional de T.I altamente motivado com uma base sólida em hardware, redes e programação. Experiência comprovada como Help Desk e desenvolvedor freelancer. Conhecimento em Python, Java, SQL, HTML, CSS e Bootstrap.
+Portfólio profissional com foco em Cibersegurança, SOC, Blue Team, redes e infraestrutura.
 
+## Site
+O arquivo `index.html` é a página inicial. O site é estático, responsivo e não exige build.
 
-<div>
-<a href="https://github.com/P3nn4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P3nn4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3nn4&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+## Publicação no GitHub Pages
+1. Abra **Settings → Pages** neste repositório.
+2. Em **Build and deployment**, selecione **Deploy from a branch**.
+3. Selecione a branch `main` e a pasta `/ (root)`.
+4. Salve e aguarde a publicação.
+5. O endereço público aparecerá na própria tela de Pages.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fee-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Fee-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fee-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fee-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/feepenna" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:felipennadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-penna-a27457307/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## Laboratórios
+- LAB-001 Wazuh SIEM / SOC
+- LAB-002 Wireshark / Network Analysis
+- LAB-003 Windows Server / Active Directory
+- LAB-004 Linux Administration
+- LAB-005 Network Infrastructure
+- LAB-006 MDT Deployment
+- LAB-007 TrendAI Vision One / XDR
+- LAB-008 Incident Triage / MITRE ATT&CK
+
+## Transparência
+Os documentos distinguem prática parcial, repositório existente e roteiro preparado. Um roteiro documentado não significa que a instalação ou os testes foram executados. Atualize o status somente após executar o laboratório e adicionar evidências próprias.
+
+## Segurança
+Não publique senhas, tokens, chaves, dados de clientes, informações internas da Alper ou capturas corporativas. Utilize somente ambientes próprios, simulados ou autorizados.
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/nycolasb/
+- GitHub: https://github.com/nycolas5200
