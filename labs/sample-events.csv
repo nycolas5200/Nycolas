@@ -1,0 +1,5 @@
+timestamp_utc,host,user,event_id,source,result,notes
+2026-11-20T13:02:11Z,LAB-WIN01,lab.user,4625,Windows-Security,failure,Synthetic failed logon
+2026-11-20T13:02:39Z,LAB-WIN01,lab.user,4625,Windows-Security,failure,Synthetic failed logon
+2026-11-20T13:03:04Z,LAB-WIN01,lab.user,4625,Windows-Security,failure,Synthetic failed logon
+2026-11-20T13:05:17Z,LAB-WIN01,lab.user,4624,Windows-Security,success,Synthetic successful logon
